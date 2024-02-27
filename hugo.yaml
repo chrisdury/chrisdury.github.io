@@ -1,7 +1,7 @@
 baseURL: https://chrisdury.github.io
 languageCode: en-au
 title: Chris Dury
-#theme: ['papermod']
+theme: ['papermod']
 
 minify:
   disableXML: true
