@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chris Dury</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Chris Dury</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Tue, 27 Feb 2024 14:42:09 +1030</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 27 Feb 2024 14:42:09 +1030</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>After spending many years as a technology transformation consultant, strategic advisor and CIO, I have now turned my focus to using futures thinking and strategic foresight to help organisations overcome their biggest problems.
+I believe that futures thinking offers the best way for organisations to develop more robust strategies that adapt to today&amp;rsquo;s rapidly changing business environment.
+I&amp;rsquo;ve worked with a diverse range of clients, particularly in the not-for-profit sector in aged care and disability services, and I am passionate about working with organisations that make positive changes in our world.</description>
+    </item>
+    <item>
+      <title>Ideas for the future</title>
+      <link>http://localhost:1313/ideas/</link>
+      <pubDate>Tue, 27 Feb 2024 14:42:09 +1030</pubDate>
+      <guid>http://localhost:1313/ideas/</guid>
+      <description>AI Copilot for Executives - an app that helps time-poor decision makers take advantage of Gen-AI technologies. This can be everything from question/answer, simulation, scenario development, document reviews, etc.
+Strategy Kit - a set of tools, AI-enabled, that guide organisations through a robust strategic planning process. This tool would then form the basis of the executiion phase, with the AI providing ongoing support and guidance.
+Gen-AI Corporate Videos - instead of writing long emails that nobody reads, use Gen-AI to create short videos that communicate complex ideas in a simple way.</description>
+    </item>
+    <item>
+      <title>Working on now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Tue, 27 Feb 2024 14:42:09 +1030</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>Mountain Moving Co I started Mountaing Moving Co (MMC) in 2023 to help organisations develop better strategies in response to a more complex world. I&amp;rsquo;m developing AI-enabled techniques to apply futures thinking and strategic foresight to help overcome these problems.
+With MMC I&amp;rsquo;m currently working on:
+Continuing to build my understanding of the different ways organisations are developing their strategies Developing AI-enabled consulting tools to help organisations use foresight and futures thinking more effectively Developing a range of practical tools to enable executives and senior managers to use futures thinking in their day-to-day work Fractional CIO I&amp;rsquo;m also working as a fractional CIO for not-for-profit organisations in the aged care and disability services sector.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+baseURL: https://chrisdury.github.io
+languageCode: en-au
+title: Chris Dury
+#theme: ['papermod']
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Chris Dury
+  description: "A small page about me and my thoughts."
+  keywords: [Chris Dury, blog, personal, strategy, foresight]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  hideFooter: true
+
+
+   # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Chris Dury
+    subtitle: "Strategy, foresight, and personal development"
+    imageUrl: "/images/chrisd-may2023-blue-gray-800.jpg"
+    imageWidth: 250
+    imageHeight: 250
+    imageTitle: my image
+    buttons:
+ 
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/cdury"
+    - name: medium
+      url: "https://medium.com/@chrisdury_"
+
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: now
+      name: now
+      url: /now/
+      weight: 20
+    - identifier: ideas
+      name: ideas
+      url: /ideas/
+      weight: 30
