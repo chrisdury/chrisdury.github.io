@@ -9,9 +9,9 @@ draft = false
 I started Mountaing Moving Co (MMC) in 2023 to help organisations develop better strategies in response to a more complex world. I'm developing AI-enabled techniques to apply futures thinking and strategic foresight to help overcome these problems.
 
 With MMC I'm currently working on:
-- Continuing to build my understanding of the different ways organisations are developing their strategies
-- Developing AI-enabled consulting tools to help organisations use foresight and futures thinking more effectively
-- Developing a range of practical tools to enable executives and senior managers to use futures thinking in their day-to-day work
+- Continuing to build my understanding of the different ways organisations are developing their strategies.
+- Developing AI-enabled consulting tools to help organisations use foresight and futures thinking more effectively.
+- Developing a range of practical tools to enable executives and senior managers to use futures thinking in their day-to-day work.
 
 
 ## Fractional CIO
