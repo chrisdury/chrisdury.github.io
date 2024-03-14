@@ -20,7 +20,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -71,3 +71,7 @@ menu:
       name: ideas
       url: /ideas/
       weight: 30
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 40
